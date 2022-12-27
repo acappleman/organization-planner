@@ -1,0 +1,24 @@
+{
+  "name": "organization-planner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acappleman/organization-planner.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/acappleman/organization-planner/issues"
+  },
+  "homepage": "https://github.com/acappleman/organization-planner#readme",
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  }
+}
