@@ -16,7 +16,7 @@ Below is a screen recording of the completed organization planner and its functi
 
 ## Credits
 
-Thanks to [w3schools](https://w3schools.com) and [MDN Web Docs](https://developer.mozilla.org/en-US/) for JavaScript tutorials. The special characters used in the password generator were defined by [The OWASP Foundation](https://owasp.org/www-community/password-special-characters). [ezgif](https://ezgif.com) was used to convert the screen recording into a gif.
+Thanks to [w3schools](https://w3schools.com) and [MDN Web Docs](https://developer.mozilla.org/en-US/) for JavaScript tutorials. [ezgif](https://ezgif.com) was used to convert the screen recording into a gif.
 
 ## License
 
